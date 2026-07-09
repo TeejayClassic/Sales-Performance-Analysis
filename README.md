@@ -111,9 +111,9 @@ The Executive Overview page provides a high-level summary of overall business pe
 
 - Revenue
 - Total Cost
-- Profit
-- Profit Margin %
 - Quantity Sold
+- Profit 
+- Profit Margin %
 
 ### Visuals
 
@@ -142,9 +142,9 @@ In this page, I analyzed the performance of individual sales representatives and
 
 - Total Revenue
 - Total Profit
+- Total Transactions
 - Top Performing Sales Representative
 - Average Revenue per Sales Representative
-- Total Transactions
 
 ### Visuals
 
