@@ -6,7 +6,7 @@
 - [Business Problem](#business-problem)
 - [Project Objectives](#project-objectives)
 - [Dataset Overview](#dataset-overview)
-- [Tools & Technologies Used](#tools--technologies-used)
+- [Tools Used](#tools-used)
 - [Data Preparation](#data-preparation)
 - [Dashboard Pages](#dashboard-pages)
   - [1. Executive Overview](#1-executive-overview)
@@ -72,7 +72,7 @@ The dataset contains sales transaction records with information such as:
 
 ---
 
-# Tools & Technologies Used
+# Tools Used
 
 - Power BI
 - Power Query
